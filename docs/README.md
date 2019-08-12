@@ -1,27 +1,14 @@
-# དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
+<p align="center">
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/namdroling/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/namdroling/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/namdroling/sungbum">རྣམ་གྲོལ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/namdroling/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/namdroling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  </a><a href="https://bdrc-reader.github.io/namdroling/natsok">སྣ་ཚོགས།</a></p>
+
+# རྣམ་གྲོལ་གླིང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/namdroling/master/docs/img/golden_temple.jpg)
 
 <br>
 <br>
-<br>
 
-# དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
+# རྣམ་གྲོལ་གླིང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
 
-dsdsdflkdjs
 
-# རང་དགོན་གྱིས་པར་སྐྱུན་བྱས་པའི་དཔེ་ཆ།
-ldfksajfc;lkxjfnx
-
-# དཔེ་ཀློག་སྒེའུ་ཁུང་དྲ་རྒྱའི་ནང་བསྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# དཔེ་ཀློག་སྒེའུ་ཁུང་གསར་དུ་སྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# དཀར་ཆག་བསྐྱར་བཅོས་བྱེད་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# ཡི་གེ་བཏགས་མ་སྣོན་ཚུལ།
-ldfksajfc;lkxjfnxz
-
+# རྣམ་གྲོལ་གླིང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
