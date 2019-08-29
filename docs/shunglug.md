@@ -1,13 +1,19 @@
 <p align="center">
   <a href="https://bdrc-reader.github.io/namdroling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/namdroling/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/namdroling/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/namdroling/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/namdroling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/namdroling/natsok">སྣ་ཚོགས།</a></p>
 
-
 # རྣམ་གྲོལ་གླིང་དང་འབྲེལ་བའི་གཞུང་ལུགས་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0010002&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
-<br>
+
+# དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་བཤུ་བྱ་ཚུལ།
+
+iframe ཀྱི་ཨང་བརྡ། གཤམ་དུ་བཀོད་པའི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ཨང་བརྡ་རྣམས་ངོ་བཤུ་བྱས་ཏེ་སྒེར་དང་ཚོགས་པའི་དྲ་ཚིགས་གང་གི་ནང་བླུག་ཀྱང་དཔེ་ཀློག་སྒེའུ་ཁུང་འདི་ཐད་ཀར་བཀོལ་ཐུབ་པ་ཡིན།
+
+```
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0010002&origin=website.com" width="100%" height="600"></iframe>
+```
 
 # འདིར་བཞུགས་པའི་གཞུང་ལུགས་ཁག་གི་ངོ་སྤྲོད།
 
